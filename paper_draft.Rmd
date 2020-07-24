@@ -1,0 +1,50 @@
+---
+title: "A Systematic Review of the Use of the ESM Methodology in Education"
+author: "Alex Lishinski, Michael Mann"
+date: "7/24/2020"
+output: pdf_document
+---
+
+# Introduction
+
+The experience sampling method (ESM) is a longitudinal data collection method that involves gathering data frequently from participants over an extended period of time. The use of ESM in education research is on the rise in recent years because it provides a unique way to collect data closer in time to students’ experiences that are of interest to researchers, and so this method provides a unique measure of ecological validity
+
+Whereas some studies in education might involve, for example, collecting data from students 3-4 times over the course of a semester, an ESM study might involve collecting data from students 6 times a day for a week. 
+
+This is but one example of course, as there are infinitely many variations of ways that one could conduct an ESM study. The purpose of this systematic review is to review and code all of the studies in education that have used ESM, in order to aggregate data about their methodological choices and capture the typical ways that this methodology is used in education research.
+
+Technology is used in various ways to conduct ESM studies. ESM relies on collecting data in the moment, and this often involves prompting participants to complete survey instruments at important times. These signals are done using many different kinds of devices, such as watches, beepers, smartphones running specialized ESM apps, etc. Surveying in ESM can also be done without an explicit signal from a signalling device. Many ESM studies use event contingent sampling, where participants are instructed to complete surveys at defined junctures in the day, such as at the end of a class period.
+
+# Literature Review
+
+ESM was developed by Larson and Csikszentmihalyi (1983). ESM studies are also sometimes called “daily diary method” or “ecological momentary assessment” (EMA).
+
+The book Experience Sampling Method by Hektner, Schmitdt and Csikszentmihalyi (2007) provides an overview of ESM variations.     
+
+# Outline of the review, research questions
+
+The purpose of this systematic review is to provide a comprehensive cataloging of the ways that the ESM method has been used in education research studies.
+
+# Methods of the Review
+
+The literature search for this study was conducted over 2 databases, EBSCO and SCOPUS. We searched for all articles including the terms “ESM”, “Experience Sampling Method”, and XXX. The initial search from these databases returned XXX results, which we then screened to ensure that they were in the scope of this review, which was studies in education meeting XXX criteria. After screening the abstracts of the initial results, there were XXX articles deemed to be in the scope of the review.
+
+A coding frame was developed to code the articles for the different methodological details of the study. The categories coded for included construct(s) studied, content area, age/level of target population, sample size, prompting method, number of signals, length of signaling period, response rate, signalling method, items used, number of items, validity and reliability information provided, missing data strategy, and type of analysis used.
+
+Articles were coded by 3 researchers for each of the above categories. The coding frame was developed prior to the preliminary rounds of coding. Several preliminary rounds of coding were conducted to refine the coding frame and practice the coding procedure, and these codes were not included in the final data for analysis. 
+
+Interrater reliability 
+ 
+# Results
+
+Each of the categories was coded for each of the studies listed, and the aggregates of these codes are shown below. 
+
+# Discussion
+
+The purpose of this systematic review was to document the methodological variation in ESM studies in education. 
+
+Overall we found some categories where there was significant commonalities across studies, e.g. XX% of studies were studying the constructs of X, Y, and Z. Almost all of the studies were with undergraduate students. XX% of studies used HLM models to analyze data of responses nested in persons.
+
+There were some categories where there was significant variation.
+
+Other categories revealed some interesting insights that defy easy categorization.
