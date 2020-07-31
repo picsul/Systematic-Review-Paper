@@ -1,6 +1,6 @@
 ---
 title: "A Systematic Review of the Use of the ESM Methodology in Education"
-author: "Alex Lishinski"
+author: "Alex Lishinski, Michael Mann"
 date: "7/24/2020"
 output: pdf_document
 ---
