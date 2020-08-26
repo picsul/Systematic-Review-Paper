@@ -50,3 +50,42 @@ Overall we found some categories where there was significant commonalities acros
 There were some categories where there was significant variation.
 
 Other categories revealed some interesting insights that defy easy categorization.
+
+
+# Discription of areas of interest (coding)
+ **will work on further description and detail**
+ 
+## Construct
+
+## Content Area
+
+## Age/Grade Level
+
+## Role of participant
+
+## Sample Size
+
+## Prompting Method
+
+## Number of Signals
+
+## Length of Signaling Period (study length)
+ 
+## Response Rate
+
+## Signal Method
+
+## Items used
+
+## Discription of items
+
+## Number of Items
+
+## Validity and Reliability
+
+## Missing Data Strategies
+
+## Types of Analysis 
+
+
+
