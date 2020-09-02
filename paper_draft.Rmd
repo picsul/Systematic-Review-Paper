@@ -56,36 +56,50 @@ Other categories revealed some interesting insights that defy easy categorizatio
  **will work on further description and detail**
  
 ## Construct
+What is the focus of the study? 
+There are many different types of constructs that researchers used ESM to investigate:
+**list**
+
 
 ## Content Area
 
+
 ## Age/Grade Level
+ESM has been used across many grade levels and ages. Students from elementary grades, starting at grade ___ and all the way through middle, secondary, and post-secondary. 
 
 ## Role of participant
 
 ## Sample Size
 
 ## Prompting Method
-
+ESM has evolved in the methods that the participants are signaled when to fill out the surveys, questionnaires, or other documents. 
 ## Number of Signals
+Signals effect the power of the study. It is said the more signals the better, this depends on what you are investigating and how long you have to run the study. 
 
 ## Length of Signaling Period (study length)
+
  
 ## Response Rate
+During the coding of the review papers this became something that we would continually look for in a paper. Many papers (n=  ) did not provide the reader with the response rate for their study. 
 
 ## Signal Method
 
+How were participants informed when it was time for them to fill out the survey/questionnaires. 
+
 ## Items used
+What topics or domains do the questions cover?
+
 
 ## Discription of items
 
 ## Number of Items
 
 ## Validity and Reliability
+focused on alpha
 
 ## Missing Data Strategies
 
 ## Types of Analysis 
 
-
+How did the researcher analysis the data. 
 
