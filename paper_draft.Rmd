@@ -86,6 +86,8 @@ We also focused on the designs of the investigation, what type of question model
 focused on alpha
 
 ### Missing Data Strategies
+Researchers accounting for why certain collected data were not analyzed. 
+Though many articles did not provide the reader an accounting for removal or lack of data. Some articles did give and account for missing data by using, for example: FIML, listwise deletion, or pairwise elimination
 
 ### Types of Analysis 
 
