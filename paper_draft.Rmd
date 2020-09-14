@@ -3,6 +3,7 @@ title: "A Systematic Review of the Use of the ESM Methodology in Education"
 author: "Alex Lishinski, Michael Mann, Omiya Sultana"
 date: "8/5/2020"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
@@ -31,7 +32,23 @@ The purpose of this systematic review is to provide a comprehensive cataloging o
 
 # Method
 
-The literature search for this study was conducted over 2 databases, EBSCO and SCOPUS. We searched for all articles including the terms “ESM”, “Experience Sampling Method”, and XXX. The initial search from these databases returned XXX results, which we then screened to ensure that they were in the scope of this review, which was studies in education meeting XXX criteria. After screening the abstracts of the initial results, there were XXX articles deemed to be in the scope of the review.
+
+The literature search for this study was conducted over 2 databases, EBSCO and SCOPUS. We searched for all articles including the terms “ESM”, “Experience Sampling” “Experience Sampling Method”, “Experience Sampling Approach”, “Experience Sampling Study”, and “Experience Sampling Studies”. To find out the articles, use used 2 different search query for the two databases. 
+In EBSCO database the search query we used is “"experience sampling" N3 (method* OR approach* OR study OR studies)” and initially found 345 results. Then we go through the title, keywords and abstract for each article carefully and find out if they are on education and have used ESM as their data collection method. After our first screening, we found 128 articles that looked relevant to this study. 
+Then we searched in the Scopus database and we used "Experience Sampling Method"  AND  (education  OR  learning  OR  instruction  OR  teach*  OR  student* ) as our search in this database. We initially found 197 results from this search. After screening them to find out whether they are on education and have used ESM as their data collection method, we found 77 relevant articles, that looks in scope for this study. 
+Therefore, we have 205 articles from two search. However, there are some duplicates articles as we pulled the articles from two different database. After deleting the duplicates, we primarily found 162 articles for this study. We also include 8 articles from an individual search that was done prior to EBSCO and Scopus database search. As a result, we have 180 articles in total to code for this study. However, when started coding them, we found some articles are not in our scope. For example, Ito (2016) paper’s target group is students and they used ESM, but they explore students’ leisure experience using ESM. That’s why we did not include this article in our study. Moreover, some of the articles have used same datasetes. In those cases, we have coded the articles that was published first (example???). Finally, after coding the articles, we have XXX articles that are in our study scope. 
+
+Table: Elements of the Systematic Review for Publications About ESM
+
+|Element          |Steps Taken                                            |
+|-----------------|-------------------------------------------------------|
+|Sampling strategy|Comprehensive search for all journal articles about ESM|
+|Type of study    |Search of the EBSCO database and SCOPUS database       |
+|Approaches	      |Search of the EBSCO database and SCOPUS database       |
+|Range of years   |1989 to 2020                                           |
+|Limits           |Published in the english language                      |
+
+
 
 A coding frame was developed to code the articles for the different methodological details of the study. The categories coded for included construct(s) studied, content area, age/level of target population, sample size, prompting method, number of signals, length of signaling period, response rate, signalling method, items used, number of items, validity and reliability information provided, missing data strategy, and type of analysis used.
 
