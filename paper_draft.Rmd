@@ -1,7 +1,8 @@
 ---
 title: "A Systematic Review of the Use of the ESM Methodology in Education"
 author: "Alex Lishinski, Michael Mann, Omiya Sultana"
-date: "8/5/2020"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+abstract: "This is the abstract"
 output:
   pdf_document: default
   html_document:
@@ -30,7 +31,9 @@ The book Experience Sampling Method by Hektner, Schmitdt and Csikszentmihalyi (2
 
 The purpose of this systematic review is to provide a comprehensive cataloging of the ways that the ESM method has been used in education research studies.
 
-# Method
+# Methods
+
+## Sample 
 
 
 The literature search for this study was conducted over 2 databases, EBSCO and SCOPUS. We searched for all articles including the terms “ESM”, “Experience Sampling” “Experience Sampling Method”, “Experience Sampling Approach”, “Experience Sampling Study”, and “Experience Sampling Studies”. To find out the articles, use used 2 different search query for the two databases. 
@@ -53,8 +56,6 @@ Table: Elements of the Systematic Review for Publications About ESM
 A coding frame was developed to code the articles for the different methodological details of the study. The categories coded for included construct(s) studied, content area, age/level of target population, sample size, prompting method, number of signals, length of signaling period, response rate, signalling method, items used, number of items, validity and reliability information provided, missing data strategy, and type of analysis used.
 
 Articles were coded by 3 researchers for each of the above categories. The coding frame was developed prior to the preliminary rounds of coding. Several preliminary rounds of coding were conducted to refine the coding frame and practice the coding procedure, and these codes were not included in the final data for analysis.
-
-## Sample 
 
 ## Coding
 
