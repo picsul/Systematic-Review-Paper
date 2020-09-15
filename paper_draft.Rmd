@@ -41,6 +41,9 @@ Articles were coded by 3 researchers for each of the above categories. The codin
 
 ## Coding
 
+## Discription of areas of interest (coding)
+ **will work on further description and detail**
+ 
 ### Construct
 We wanted to find out what the extent that the research literature has covered as the them of study. The constructs have a variable of depth, some coding for the construct were singular and had a single focus. Other articles investigate several constructs and are broad in the scope that they cover. 
 What is the focus of the study? 
@@ -87,7 +90,7 @@ focused on alpha
 
 ### Missing Data Strategies
 Researchers accounting for why certain collected data were not analyzed. 
-Though many articles did not provide the reader an accounting for removal or lack of data. Some articles did give and account for missing data by using, for example: FIML, listwise deletion, or pairwise elimination
+Though many articles did not provide the reader an accounting for removal or lack of data. Some articles did give and account for missing data by using, for example: FIML, listwise deletion, or pairwise elimination.
 
 ### Types of Analysis 
 
@@ -95,6 +98,8 @@ How did the researcher analysis the data. Authors used different terms for simil
 
 
 ### Data Analysis
+
+
 
 ## Strategies for Validating Findings and Establishing Reliability
 
@@ -115,7 +120,6 @@ There were some categories where there was significant variation.
 Other categories revealed some interesting insights that defy easy categorization.
 
 
-# Discription of areas of interest (coding)
- **will work on further description and detail**
+
  
 
