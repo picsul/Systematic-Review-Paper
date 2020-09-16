@@ -1,7 +1,7 @@
 ---
 title: "A Systematic Review of the Use of the ESM Methodology in Education"
 author: "Alex Lishinski, Michael Mann, Omiya Sultana"
-date: "8/5/2020"
+date:  "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   pdf_document: default
   html_document:
@@ -20,6 +20,8 @@ This is but one example of course, as there are infinitely many variations of wa
 
 Technology is used in various ways to conduct ESM studies. ESM relies on collecting data in the moment, and this often involves prompting participants to complete survey instruments at important times. These signals are done using many different kinds of devices, such as watches, beepers, smartphones running specialized ESM apps, etc. Surveying in ESM can also be done without an explicit signal from a signalling device. Many ESM studies use event contingent sampling, where participants are instructed to complete surveys at defined junctures in the day, such as at the end of a class period.
 
+## Advantages of ESM in Education
+
 # Literature Review
 
 ESM was developed by Larson and Csikszentmihalyi (1983). ESM studies are also sometimes called “daily diary method” or “ecological momentary assessment” (EMA).
@@ -33,10 +35,13 @@ The purpose of this systematic review is to provide a comprehensive cataloging o
 # Method
 
 
-The literature search for this study was conducted over 2 databases, EBSCO and SCOPUS. We searched for all articles including the terms “ESM”, “Experience Sampling” “Experience Sampling Method”, “Experience Sampling Approach”, “Experience Sampling Study”, and “Experience Sampling Studies”. To find out the articles, use used 2 different search query for the two databases. 
-In EBSCO database the search query we used is “"experience sampling" N3 (method* OR approach* OR study OR studies)” and initially found 345 results. Then we go through the title, keywords and abstract for each article carefully and find out if they are on education and have used ESM as their data collection method. After our first screening, we found 128 articles that looked relevant to this study. 
-Then we searched in the Scopus database and we used "Experience Sampling Method"  AND  (education  OR  learning  OR  instruction  OR  teach*  OR  student* ) as our search in this database. We initially found 197 results from this search. After screening them to find out whether they are on education and have used ESM as their data collection method, we found 77 relevant articles, that looks in scope for this study. 
-Therefore, we have 205 articles from two search. However, there are some duplicates articles as we pulled the articles from two different database. After deleting the duplicates, we primarily found 162 articles for this study. We also include 8 articles from an individual search that was done prior to EBSCO and Scopus database search. As a result, we have 180 articles in total to code for this study. However, when started coding them, we found some articles are not in our scope. For example, Ito (2016) paper’s target group is students and they used ESM, but they explore students’ leisure experience using ESM. That’s why we did not include this article in our study. Moreover, some of the articles have used same data-set. In those cases, we have coded the articles that was published first (example???). Finally, after coding the articles, we have XXX articles that are in our study scope. 
+The literature search for this study was conducted over 2 databases, EBSCO and SCOPUS. We searched for all articles including the terms “ESM”, “Experience Sampling” “Experience Sampling Method”, “Experience Sampling Approach”, “Experience Sampling Study”, and “Experience Sampling Studies”. To find the articles, we used 2 different search queries for the two databases. 
+
+In the EBSCO database we used the search query “"experience sampling" N3 (method* OR approach* OR study OR studies)” and initially found 345 results. Then we reviewed the title, keywords, and abstract for each article carefully to determine whether they are studies in the domain of education and whether they indeed used ESM as their data collection method. This initial screening resulted in 128 articles that looked relevant to this study. 
+
+Then we searched the SCOPUS database using the query "Experience Sampling Method"  AND  (education  OR  learning  OR  instruction  OR  teach*  OR  student* ). This search resulted in 197 articles. We then screened these articles the same way as the EBSCO articles to determine whether they were in the domain of education and that they used ESM as their data collection method. This screening resulted in 77 articles that looked relevant to this study. 
+
+Between EBSCO and SCOPUS we ended up with 205 articles from the two searches. However, there were some duplicates between the two databases, and after deleting the duplicates, we had 162 articles for this study. We also included 18 articles from another search that was done prior to EBSCO and Scopus database search. As a result, we have 180 articles in total to code for this study. However, through the coding process, we found that some of the articles that passed the initial screening were not in the scope of this study. For example, Ito (2016) paper’s target group is students and they used ESM, but they explore students’ leisure experience using ESM. That’s why we did not include this article in our study. Moreover, we found examples where multiple articles used the same dataset. In those cases, we coded the article that was published first (example???). Finally, after coding the articles and eliminating some that were out of scope, we ended up with XXX articles that are in our study scope. 
 
 Table: Elements of the Systematic Review for Publications About ESM
 
@@ -133,6 +138,49 @@ Interrater reliability
 # Results
 
 Each of the categories was coded for each of the studies listed, and the aggregates of these codes are shown below. 
+
+
+## Aggregation of results
+
+Here we will include summary tables for the codes that can be summarized in this format:
+
+* content area
+* Age / grade level
+* Role of participant
+* sample size
+* prompting method
+* number of signals
+* length of signaling period 
+* signaling method
+* Type of analysis used
+
+Then there are categories that will require additional contextualization
+
+* response rate 
+* missing data strategy
+
+
+### Construct studied 
+
+Then we will talk about the construct studied code
+
+1 paragraph describing the process of coding this and the challenges of different terminology
+
+1 paragraph breaking down the results as we categorized them
+
+Then paragraphs on the most commonly occurring constructs
+
+* Emotions
+* Engagement
+* Flow
+* Self-efficacy
+
+These paragraphs should:
+* Describe the construct in more detail and variations 
+* Describe the types of items that were used to measure it
+* Give examples of some of the findings from the articles measuring this construct
+* Summarize if possible
+
 
 # Discussion
 
