@@ -110,6 +110,7 @@ Devices that ESM researchers used included: pager, cell phone (later transformed
 
 ### Items used
 We also focused on the designs of the investigation, what type of question models researchers used. For example, each of the items that researchers used was instruments to determine what each participant was experiencing. Researchers many times used a type of Likert scale, psychometric scale, which varied from a 3 point Likert scale up to a 100-point Likert scale. This varied according to the needs and the objectives of the researchers.  Then researchers would use open-ended questions to enable participants to elaborate on their experiences. Finally, some authors were unclear of what instruments were used. They would only state that they used a questionnaire and no further information was provided. 
+
 ### Description of items
 To further draw information and specifics of the ESM that was used in research we looked at what types of topics the items were seeking to glean data from the participants. We wanted to know what kinds of question topics that have been used in the current literature. Some articles would only elaborate and say that more than one Likert scale was used, while others would go into detail about the different topics. For example, in the Shumow et al. (2008), they had 3 items on the cognitive state, 4 on affective, 2 on the motivational state, and 2 indication student self-views.  Detail of what items were used it students varied from detailed to no information provided, minus what kind of items, instruments, were used in their study. 
 
