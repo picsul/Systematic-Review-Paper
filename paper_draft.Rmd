@@ -24,6 +24,8 @@ Technology is used in various ways to conduct ESM studies. ESM relies on collect
 
 ## Advantages of ESM in Education
 
+josh is cool
+
 # Literature Review
 
 ESM was developed by Larson and Csikszentmihalyi (1983). ESM studies are also sometimes called “daily diary method” or “ecological momentary assessment” (EMA).
